@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "353661804444",
+    "project_id": "campus-exchange-f5e66",
+    "storage_bucket": "campus-exchange-f5e66.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353661804444:android:8655ecc798c6b7efffb259",
+        "android_client_info": {
+          "package_name": "com.example.campussecondhandexchange"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZslfbbg1EFJGV5K2_vgvLM4Lhev4rzxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

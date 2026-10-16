@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.CampusExchange"
+        parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+        <!-- Primary Colors -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorSecondary">@color/accent</item>
+
+        <!-- Background -->
+        <item name="android:windowBackground">@color/background</item>
+
+        <!-- Status Bar -->
+        <item name="android:statusBarColor">@color/primary_dark</item>
+
+        <!-- Navigation Bar -->
+        <item name="android:navigationBarColor">@color/white</item>
+
+        <!-- Default Text -->
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+
+        <!-- Font -->
+        <item name="android:fontFamily">sans</item>
+
+        <!-- Light/Dark mode -->
+        <item name="android:windowLightStatusBar">false</item>
+
+    </style>
+
+</resources>

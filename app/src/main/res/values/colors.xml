@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Primary App Colors -->
+    <color name="primary">#1565C0</color>
+    <color name="primary_dark">#0D47A1</color>
+    <color name="primary_light">#42A5F5</color>
+
+    <!-- Accent -->
+    <color name="accent">#FF9800</color>
+
+    <!-- Background -->
+    <color name="background">#F5F7FA</color>
+
+    <!-- Text -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_hint">#9E9E9E</color>
+
+    <!-- Status -->
+    <color name="success">#2E7D32</color>
+    <color name="error">#D32F2F</color>
+    <color name="warning">#F57C00</color>
+
+    <!-- Borders / Dividers -->
+    <color name="divider">#E0E0E0</color>
+    <color name="border">#D6D9DE</color>
+
+
+</resources>
